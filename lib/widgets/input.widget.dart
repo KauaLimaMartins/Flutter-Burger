@@ -15,7 +15,7 @@ class Input extends StatelessWidget {
     return Row(
       children: <Widget>[
         Container(
-          width: 140,
+          width: 120,
           alignment: Alignment.centerRight,
           child: Text(
             "$label:",
@@ -35,8 +35,9 @@ class Input extends StatelessWidget {
             keyboardType: TextInputType.number,
             cursorColor: Colors.white,
             style: TextStyle(
+              fontWeight: FontWeight.bold,
               color: Colors.white,
-              fontSize: 48,
+              fontSize: 46,
               fontFamily: 'Big Shoulders Display',
             ),
             decoration: InputDecoration(

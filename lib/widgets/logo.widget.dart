@@ -10,7 +10,7 @@ class Logo extends StatelessWidget {
         ),
         Image.asset(
           "assets/images/burguer.png",
-          height: 100,
+          height: 130,
         ),
         SizedBox(
           height: 5,
