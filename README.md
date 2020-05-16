@@ -13,4 +13,6 @@ He compares the price of 4 burgers based on the establishment that makes it.
 
 # Demo video
 
-Coming soon...
+<h1 align="center">
+   <img src="./burguer.gif" width="250" />
+ </h1>
